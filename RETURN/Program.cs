@@ -1,10 +1,10 @@
-﻿int EttTall = 1;
+﻿int ettTall = 1;
 
-int EttAnnetTall = 2;
+int ettAnnetTall = 2;
 
-int SumOfHisParts()
+int SumOfHisParts(int ettTall, int ettAnnetTall)
 {
-    return EttTall + EttAnnetTall;
+    return ettTall + ettAnnetTall;
    
 }
 
